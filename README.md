@@ -5,8 +5,10 @@ Welcome to my Excel-based Sales and Finance Analysis project for AtliQ Hardware,
 # 🎯 Project Objectives
 
 # 🛒 Sales Report
-• Build a Customer Performance Report
-• Compare Market Performance vs Sales Targets
+• Build a 📄 [Customer Performance Report (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/Customer%20Performance%20Report.pdf)
+
+• Compare 📄📊 [View Market Performance vs Target Report (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+
 
 **Purpose:**
 Enable business teams to monitor, evaluate, and act on key sales performance trends.
@@ -19,7 +21,9 @@ Enable business teams to monitor, evaluate, and act on key sales performance tre
 
 
 # 💰 Finance Report
-• Generate Profit & Loss (P&L) statements by Fiscal Year and Month
+• Generate Profit & Loss (P&L) statements by 💰 [Fiscal Year (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
+ and 📆 [Months (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/P%26L%20by%20Months.pdf)
+
 • Create P&L by Market to compare financial performance geographically
 
 **Purpose:**
