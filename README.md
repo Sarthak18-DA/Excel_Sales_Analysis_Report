@@ -5,9 +5,9 @@ Welcome to my Excel-based Sales and Finance Analysis project for AtliQ Hardware,
 # 🎯 Project Objectives
 
 # 🛒 Sales Report
-• Build a 📄 [Customer Performance Report (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/Customer%20Performance%20Report.pdf)
+• Build a 📄 [Customer Performance Report](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/Customer%20Performance%20Report.pdf)
 
-• Compare 📄📊 [View Market Performance vs Target Report (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
+• Compare 📄📊 [Market Performance vs Target Report](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 
 **Purpose:**
@@ -21,10 +21,11 @@ Enable business teams to monitor, evaluate, and act on key sales performance tre
 
 
 # 💰 Finance Report
-• Generate Profit & Loss (P&L) statements by 💰 [Fiscal Year (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
+• Generate Profit & Loss (P&L) statements by 💰 [Fiscal Year](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/P%26L%20by%20Fiscal%20Year.pdf)
  and 📆 [Months (PDF)](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/P%26L%20by%20Months.pdf)
 
-• Create P&L by Market to compare financial performance geographically
+• Create P&L by 🌍 [Markets](https://github.com/Sarthak18-DA/Excel_Sales_Analysis_Report/blob/main/P%26L%20%20by%20Markets.pdf)
+ to compare financial performance geographically
 
 **Purpose:**
 Support better decision-making by giving a clear view of financial health, trends, and opportunities.
